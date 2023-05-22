@@ -6,5 +6,7 @@ public class Input {
 		char a = (char)(sc.next().charAt(0) + 1);
 		// char c = (char) (a + 1);
 		System.out.println(a);
+		// char c = sc.nextLine().charAt(0);
+		// c = (char)((int)c + 1);
 	}
 }
